@@ -54,7 +54,3 @@
 - 📧 Email: **w_mezghiche@estin.dz**
 
 ---
-
-<p align="center">
-  <i>“Artificial intelligence is not a substitute for human intelligence, but a powerful tool to amplify it.”</i>
-</p>
