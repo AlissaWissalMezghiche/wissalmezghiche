@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alissa Wissal</h1>
+<h1 align="center">Hi , I'm Alissa Wissal</h1>
 <h3 align="center">AI & Data Science Engineer | Backend Developer | NLP & Computer Vision Enthusiast</h3>
 
 <p align="center">
