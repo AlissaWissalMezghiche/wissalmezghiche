@@ -1,12 +1,61 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi👋, I'm Alissa Wissal </h1>
-<h3 align="center"> Backend developer | Data passionate | NLP enthusiast </h3>
 
-- 🔭 I’m currently **a fifth-year student pursuing a degree in Computer Science at the Higher School of Computer Science and Technology. My area of specialization is in Data Science and Artificial Intelligence**.
-- 👯 I’m looking to collaborate on **projects related to Computer Vision. Specifically, I'm interested in projects involving image recognition, object detection, and scene understanding. I'm excited to contribute my skills to developing innovative solutions that leverage the power of computer vision technology**.
-- 🌱 **Currently, I am focused on expanding my knowledge in the fields of Data Science and Machine Learning. I am actively engaged in learning various techniques and algorithms used in data analysis, predictive modeling, and pattern recognition.**
+<h1 align="center">Hi 👋, I'm Alissa Wissal</h1>
+<h3 align="center">AI & Data Science Engineer | Backend Developer | NLP & Computer Vision Enthusiast</h3>
 
-- 📫 How to reach me **w_mezghiche@estin.dz**
+<p align="center">
+  Designing intelligent systems and transforming data into impactful solutions.
+</p>
 
+---
 
+### 👩‍💻 About Me
 
+- 🎓 **AI & Data Science Engineer** with a strong academic background in Computer Science  
+- 🔭 Currently working on **Artificial Intelligence, NLP, Computer Vision, and Backend systems**
+- 🌱 Continuously improving my skills in **Machine Learning, Deep Learning, and Large Language Models (LLMs)**
+- 👯 Open to collaborating on **AI-driven projects**, especially in:
+  - Natural Language Processing  
+  - Computer Vision (object detection, image recognition)  
+  - Intelligent chatbots and recommendation systems  
+- 💡 Interested in **research-oriented and real-world AI applications**
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- Python | Java | C | JavaScript
+
+**AI & Data Science**
+- Machine Learning (Supervised & Unsupervised)
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Data Mining & Feature Engineering
+- Data Visualization & Analysis
+
+**Frameworks & Tools**
+- Django | FastAPI | Flask | Node.js
+- Pandas | NumPy | Matplotlib | Seaborn | Plotly
+- OpenCV | Scikit-learn | TensorFlow | PyTorch
+- Git | GitHub | Linux
+
+---
+
+### 📌 Research & Interests
+- 🤖 Large Language Models (LLMs)
+- 🧠 AI-powered chatbots & conversational systems
+- 🌍 Citizen participation platforms using AI
+- 📊 Data-driven decision support systems
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **w_mezghiche@estin.dz**
+
+---
+
+<p align="center">
+  <i>“Artificial intelligence is not a substitute for human intelligence, but a powerful tool to amplify it.”</i>
+</p>
